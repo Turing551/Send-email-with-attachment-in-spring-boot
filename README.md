@@ -1,1 +1,1 @@
-# Send-email-with-attachment-in-spring-boot
+# Spring boot - Send email with attachment
